@@ -135,14 +135,6 @@ make
 
 # Running the Project
 
-Run the executable
-
-```bash
-../
-```
-
-The CLI will start, allowing you to execute supported version-control commands.
-
 Create a directory to test the version control system:
 
 ```bash
