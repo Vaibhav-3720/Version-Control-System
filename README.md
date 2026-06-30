@@ -138,7 +138,7 @@ make
 Run the executable
 
 ```bash
-./MiniGit
+./mg
 ```
 
 The CLI will start, allowing you to execute supported version-control commands.
@@ -147,18 +147,18 @@ The CLI will start, allowing you to execute supported version-control commands.
 
 # Supported Commands
 
-| Command  | Description |
-|----------|-------------|
-| init     | Initialize repository |
-| add      | Stage files |
-| commit   | Create snapshot |
-| status   | Display repository status |
-| log      | Show commit history |
-| graph    | Visualize commit graph |
-| diff     | Compare file changes |
-| checkout | Restore previous snapshot |
-| reset    | Reset repository |
-| .mgignore| Ignore selected files |
+| Command   | Description               |
+| --------- | ------------------------- |
+| init      | Initialize repository     |
+| add       | Stage files               |
+| commit    | Create snapshot           |
+| status    | Display repository status |
+| log       | Show commit history       |
+| graph     | Visualize commit graph    |
+| diff      | Compare file changes      |
+| checkout  | Restore previous snapshot |
+| reset     | Reset repository          |
+| .mgignore | Ignore selected files     |
 
 ---
 
