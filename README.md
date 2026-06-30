@@ -162,8 +162,7 @@ or
 ../MiniGit/build/mg init
 ```
 
-depending on whether your application is interactive.
----
+## depending on whether your application is interactive.
 
 # Supported Commands
 
@@ -201,11 +200,27 @@ Main components include:
 
 ---
 
-# Screenshots
+## Screenshots
 
-Add screenshots here.
+### Repository Initialization
 
-Example
+![Initialize Repository](screenshots/init.png)
+
+### Repository Status
+
+![Status](screenshots/status.png)
+
+### Repository AddFiles
+
+![AddFiles](screenshots/add.png)
+
+### Repository commit
+
+![commit](screenshots/commit.png)
+
+### Repository log
+
+![commit](screenshots/log.png)
 
 ```
 screenshots/
