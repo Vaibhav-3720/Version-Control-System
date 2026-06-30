@@ -259,6 +259,3 @@ Through this project I gained practical experience with
 
 ---
 
-# License
-
-This project is released under the MIT License.
