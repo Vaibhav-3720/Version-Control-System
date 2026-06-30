@@ -138,11 +138,31 @@ make
 Run the executable
 
 ```bash
-./mg
+../
 ```
 
 The CLI will start, allowing you to execute supported version-control commands.
 
+Create a directory to test the version control system:
+
+```bash
+mkdir TestRepo
+cd TestRepo
+```
+
+Run the executable from the build directory:
+
+```bash
+../MiniGit/build/mg
+```
+
+or
+
+```bash
+../MiniGit/build/mg init
+```
+
+depending on whether your application is interactive.
 ---
 
 # Supported Commands
@@ -194,7 +214,6 @@ screenshots/
     status.png
     commit.png
     log.png
-    graph.png
 ```
 
 ---

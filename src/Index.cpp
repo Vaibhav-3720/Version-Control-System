@@ -176,7 +176,6 @@ vector<string> Index::getFiles()
 void Index::addAllFiles()
 {
     Ignore ignore;
-
     fs::recursive_directory_iterator it(".");
     fs::recursive_directory_iterator end;
 
